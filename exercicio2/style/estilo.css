@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+h1 {
+  text-align: center;
+  color: black;
+}
+div {
+  background-color: black;
+  width: 50vw;
+  border-radius: 4px;
+  padding: 16px;
+  margin: 10px auto;
+}
+span {
+  color: #febe01;
+}
+button {
+  color: #332200;
+  background-color: #febe01;
+  font-family: inherit;
+  font-size: inherit;
+  width: 10vw;
+  height: 5vh;
+  border-radius: 4px;
+}
